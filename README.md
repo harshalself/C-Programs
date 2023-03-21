@@ -71,7 +71,7 @@ We are using semantic commit messages made by us own. It is used as follow :
 
 ## Maintainers 
 
-If you have any query regarding this repository then feel free to raise an issue or contact the following maintainers.
+If you have any query regarding this repository then feel free to raise an issue or contact the following maintainers.. If you want any more programs to be uploaded please do let me know.
 
 - [Harshal Patil](https://www.github.com/harshalself)
 
